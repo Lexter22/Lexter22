@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @Lexter
 - 👀 I’m interested in machine learning and cybersecurity
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... @hiits.lex
-- 😄 Pronouns: ...
-- ⚡ Fun fact: I started learning programming out of forcing myself
+- 🌱 Curently learning java and c++
+- ⚡ Fun fact: I started programming because I can see myself not doing anything else.
   
 
 <!---
