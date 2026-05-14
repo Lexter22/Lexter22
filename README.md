@@ -1,1 +1,1 @@
-message me to know more about me
+Get to know me in my socials
